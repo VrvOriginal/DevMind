@@ -3,7 +3,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 import java.util.Scanner;
 
-//Test
+//Test doi
 class Vehicle {
     // TODO
     //Campuri / Fields
